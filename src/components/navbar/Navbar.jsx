@@ -1,4 +1,4 @@
-import { Search, Notifications, ArrowDropDown, LaptopWindows} from "@material-ui/icons"
+import { Search, Notifications, ArrowDropDown} from "@material-ui/icons"
 import { useState } from "react"
 import "./navbar.scss"
 
